@@ -1,6 +1,3 @@
-//Daniel Lin
-//Band C
-//10/17/2022
 import java.util.*;
 public class Gym{
 	public static void main (String args[]){
